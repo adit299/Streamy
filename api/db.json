@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Programmatic Navigation Test",
+      "description": "Made a patch edit request",
+      "id": 5
+    },
+    {
+      "title": "Alap's Stream",
+      "description": "Join me every Monday for Minecraft, Fortnite, and other baby fun! I require Amma however. And I will cry.",
+      "id": 6
+    },
+    {
+      "title": "Adit's Stream 2.0",
+      "description": "Join me every Friday for League of Legends gameplay.",
+      "userId": "105290067368462038126",
+      "id": 7
+    },
+    {
+      "title": "Killer Keemstar",
+      "description": "Let's get riiiight into the neeewwwsss",
+      "userId": "105290067368462038126",
+      "id": 8
+    }
+  ]
+}
